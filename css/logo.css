@@ -1,0 +1,78 @@
+.main{
+	height: 800px;
+}
+.l_img{
+	margin-top: 130px;
+}
+.l_img img{
+	width: 300px;
+	height: 500px;
+	/*border-radius: 500px;*/
+}
+.login{
+	width: 482px;
+	height: 620px;
+	margin-top: 85px;
+	background-color: white;
+	/*padding-top: 20px;*/
+}
+.login h2{
+	margin-left: 25px;
+	font: normal 400 30px/100px "微软雅黑";
+	height: 100px;
+}
+.login input{
+	border: 1px solid #d8d8d8;
+	width: 398px;
+	height: 58px;
+	font-size: 24px;
+	padding-left: 50px;
+	margin-left: 16px;
+}
+.login .txt{
+	background-position: 10px -480px;
+}
+.login .pwd{
+	margin-top: 34px;
+	background-position: 10px -538px;
+}
+.login .remember{
+	height: 10px;
+	font: normal normal 24px/100px "微软雅黑";
+}
+.login .remember input{
+	width: 24px;
+	height: 24px;
+	vertical-align: middle;
+}
+.login .remember a{
+	margin-right: 17px;
+}
+.login .loginbtn {
+	background-color: #C70202;
+	margin-left: 40px;
+	border-radius: 3px;
+}
+.login p{
+	margin-top: 10px;
+	margin-left: 30px;
+	font: normal normal 20px/100px "微软雅黑";
+}
+.login ul li{
+	height: 20px;
+	line-height: 20px;
+	padding-left: 24px;
+}
+.login ul li a{
+	font-size: 14px;
+	color: #666;
+}
+.login ul .l_l{
+	margin-left: 30px;
+}
+.login ul .l_cen{
+	margin-left: 90px;
+}
+.login ul .l_r{
+	margin-right: 45px;
+}

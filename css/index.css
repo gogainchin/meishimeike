@@ -1,0 +1,203 @@
+.cRed{
+	border-bottom: 1px solid red;
+}
+.h2title{
+	text-align: center;
+	font: normal normal 24px/70px "微软雅黑";
+	position: relative;
+}
+.bg_red{
+	background-color: red;
+}
+.white{
+	color: #fff !important;
+}
+.p1{
+	height: 36px;
+	font: normal 700 18px/36px "微软雅黑";
+	margin-left: 10px;
+}
+.p2{
+	font-family: "微软雅黑";
+	margin-left: 10px;
+}
+.more{
+	right: 0px;
+	top: 0px;
+	position: absolute;
+	color: #666;
+	font-size: 12px;
+}
+/*首页导航 B*/
+.nav{
+	height: 77px;
+	background-color: #fff;
+}
+.nav .nav_c{
+	height: 77px;
+}
+.nav .nav_c li{
+	float: left;
+	height: 77px;
+	font: normal normal 18px/77px "微软雅黑";
+	margin-right: 25px; 
+}
+.nav .nav_c li a{
+	color: #666;
+}
+.nav .nav_c li a:hover{
+	color: red;
+}
+.banner{
+	position: relative;
+}
+.banner ul{
+	width: 1320px;
+	margin: 0 auto;
+}
+.banner ul li{
+	float: left;
+	width: 330px;
+	height: 280px;
+	background-color: gray;
+	position: relative;
+}
+.banner ul li img{
+	vertical-align: middle;
+}
+.banner .des{
+	width: 330px;
+	height: 63px;
+	background-color: rgba(255,255,255,0.6);
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+}
+.banner .arrow a{
+	width: 145px;
+	height: 77px;
+	display: inline-block;
+	background-color: gray;
+	position: absolute;
+	top: 160px;
+}
+.banner .arrow .a_left{
+	left: 120px;
+}
+.banner .arrow .a_right{
+	right: 120px;
+}
+/*首页导航 E*/
+/*首页搜索 B*/
+.search{
+	height: 100px;
+	background-color: #3f3a32;
+	overflow: hidden; 
+}
+.search .s_center{
+	height: 77px;
+	width: 728px;
+	background-color: #fff;
+	margin: 0 auto;
+	margin-top: 12px;
+}
+.search .s_center .txt{
+	width: 510px;
+	height: 77px;
+	font: normal normal 18px "微软雅黑";
+	padding-left: 45px;
+	outline: none;
+}
+.search .s_center .btn{
+	height: 77px;
+	width: 173px;
+	background-color: red;
+	font: normal normal 18px "微软雅黑";
+	border: none;
+	outline: none;
+	color: #fff;
+}
+
+/*首页搜索 E*/
+/*首页菜单 B*/
+.menu{
+	overflow: hidden;
+}
+.menu .img{
+	width: 1010px;
+}
+.menu .img li{
+	width: 334px;
+	float: left;
+}
+.menu .img li img{
+	vertical-align: middle;
+}
+.menu .img .word{
+	width: 334px;
+	height: 57px;
+	background-color: #fff;
+}
+.arrow_pos{
+	width: 1200px;
+	margin: 0 auto;
+	position: relative;
+}
+.arrow_pos .arrow a{
+	display: inline-block;
+	width: 30px;
+	height: 98px;
+	position: absolute;
+	background-color: pink;
+	top: 145px;
+}
+.arrow_pos .arrow .a1{
+	left: 30px;
+}
+.arrow_pos .arrow .a2{
+	right: 30px;
+}
+.food{
+	overflow: hidden;
+}
+.food .f_nav{
+	background-color: #fff;
+}
+.food .f_nav li{
+	float: left;
+	width: 103px;
+	height: 42px;
+	font: normal 700 22px/42px "微软雅黑";
+	text-align: center;
+}
+.food .f_nav li a{
+	color: #666;
+}
+.food .f_img{
+	width: 1010px;
+}
+.food .f_img{
+	/*background-color: gray;*/
+}
+.food .f_img li{
+	width: 167px;
+	height: 167px;
+	float: left;
+	background-color: #fff;
+	text-align: center;
+	line-height: 167px;
+	position: relative;
+}
+.food .f_img li img{
+	vertical-align: middle;
+}
+.food .f_img li span{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	height: 60px;
+	width: 167px;
+	background-color: rgba(255,255,255,.6);
+	font: normal 700 18px/60px "微软雅黑";
+}
+/*首页菜单 E*/
